@@ -204,7 +204,6 @@ Noise is applied to training labels only. Models are evaluated on the clean test
 
 <img src="plots/noisy_confusion_matrices_40pct.png" width="60%" alt="Noisy Labels F1">
 
----
 
 ### Experiment 2 — Class Imbalance (Pima Indians Diabetes)
 
