@@ -166,14 +166,21 @@ After running:
 plots/
   noisy_accuracy_vs_noise.png        
   noisy_f1_vs_noise.png              
-  noisy_training_loss_*.png          
+  noisy_training_loss_10pct.png
+  noisy_training_loss_20pct.png          
+  noisy_training_loss_30pct.png          
+  noisy_training_loss_40pct.png             
   noisy_confusion_matrices_40pct.png  
   imbalance_accuracy_vs_ratio.png    
   imbalance_f1_vs_ratio.png          
-  imbalance_training_loss_*.png      
-  imbalance_confusion_matrices_*.png  
-  eval_noisy_*.png                   
-  eval_imbalance_*.png
+  imbalance_training_loss_1_5.png
+  imbalance_training_loss_1_10.png      
+  imbalance_training_loss_1_20.png           
+  imbalance_confusion_matrices_1_20.png  
+  eval_noisy_f1_bar.png
+  eval_noisy_accuracy_bar.png                                
+  eval_imbalance_f1_bar.png
+  eval_imbalance_accuracy_bar.png
 
 results/
   noisy_labels_results.csv
